@@ -1,3 +1,11 @@
+# 温馨提示
+
+> renren-ui已合并到renren-security仓库里面，仓库地址为：
+https://gitee.com/renrenio/renren-security
+
+
+
+
 ## renren-ui
 - renren-ui基于vue、element-ui构建开发，实现 【[renren-security](https://gitee.com/renrenio/renren-security)】 后台管理前端功能，提供一套更优的前端解决方案
 - 前后端分离，通过token进行数据交互，可独立部署
